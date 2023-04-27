@@ -1,0 +1,52 @@
+* {
+    font-family: 'Times New Roman', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    max-width: 100%;
+    background-color: #ffffff;
+  }
+  
+  header {
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  body {
+      margin: 0;
+      text-align: center;
+    }
+  
+  #scoreDisplay {
+    float: left;
+    color: red;
+  }
+  
+  #scoreDisplay:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  #timerDisplay {
+    color: palevioletred;
+    float: right;
+    }
+  
+  #timerDisplay:hover
+  {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  button {
+      background-color: palevioletred;
+      color: white;
+      width: auto;
+      border-radius: 15px;
+      height: 50px;
+      font-size: larger;
+  }
+  
+  .container {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+  }

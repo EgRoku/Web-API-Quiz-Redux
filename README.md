@@ -9,7 +9,7 @@
 
 ## Link to Live Site
 
-https://egroku.github.io/Web-API-Quiz/
+https://egroku.github.io/Web-API-Quiz-Redux/
 
 ## Installation
 
